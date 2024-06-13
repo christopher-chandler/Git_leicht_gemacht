@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/christopher-chandler/repo_name">
-    <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
+    <img src="notebook_resources/readme/logo.png" alt="Logo"  >
   </a>
 
 ![Version][Version-shield]  [![MIT License][license-shield]][license-url] ![update][update-shield]
@@ -18,7 +18,7 @@
 
 <h3 align="center">Git Leicht Gemacht</h3>
 
-  <p align="center">
+  <p align="center"> 
     Ein Tutorial, um Git zu lernen
     <br />
     <br />
@@ -31,32 +31,34 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Inhaltsverzeichnis</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#ueber-das-projekt">Ueber das Projekt</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#framework">Framework</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#erste-schritte">Erste Schritte</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#voraussetzungen">Voraussetzungen</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#aufbau">Aufbau</a></li>
+    <li><a href="#beitragen">Beitragen</a></li>
+    <li><a href="#lizenz">Lizenz</a></li>
+    <li><a href="#kontaktieren">Kontaktieren</a></li>
+ 
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Ueber das Projekt
+
+Das ist ein Tutorial, womit man ganz leicht und schnell sich die Grundlagen 
+fuer Git aneignen kann. 
 
 <div align="center">
   <a href="https://github.com/christopher-chandler/repo_name">
@@ -64,51 +66,34 @@
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
-A list of frameworks that were used in developing the program. 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+### Framework
+Das Tutorial benutzt hauptsaechlich die folgenden Frameworks
+* [Jupyter Notebook](https://jupyter.org/)
+* [Git Dokumentation](https://www.git-scm.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+## Erste Schritte
+Um dieses Tutorial selber ausprobieren zu koennen, sollen die folgenden Programme 
+lokal installiert sein. Es ist fuer Anfaenger gedacht, die sich mit Git gar nicht auskennen. 
+- 
+Jupyter Notebook
+- Git
+- Python
 
-### Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Voraussetzungen
+Es werden keine Sonderkenntinnise vorausgesetzt, 
+aber man soll zumindest mit der Kommandozeile vertraut sein oder in der Lage sein, 
+sich damit auseinandersetzen zu wollen.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/christopher-chandler/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Aufbau
 Use this space to show useful examples of how a project can be used. 
 Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 For more examples, please refer to the [Documentation](https://example.com)
@@ -116,56 +101,40 @@ For more examples, please refer to the [Documentation](https://example.com)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/christopher-chandler/repo_name/issues) for a full list of proposed 
-features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Beitragen
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. 
-Any contributions you make are **greatly appreciated**.
+Beitraege sind es, die die Open-Source-Community zu einem erstaunlichen Ort zum 
+Lernen, Inspirieren und Erschaffen machen.
+Jegliche Beitraege, die Sie leisten, werden **sehr geschaetzt**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. 
-You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Wenn Sie eine Idee haben, die dieses Projekt verbessern wuerde, bitte machen 
+Sie einen Fork des Repositories und erstellen Sie einen Pull Request.
+Sie koennen auch einfach ein Problem mit dem Tag "Verbesserung" eroeffnen.
+Vergessen Sie nicht, dem Projekt einen Stern zu geben! Vielen Dank nochmals!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Forken Sie das Projekt.
+2. Erstellen Sie Ihren Feature-Branch (`git checkout -b feature/ErstaunlicheFunktion`).
+3. Machen Sie Ihre aenderungen (`git commit -m 'Fuege einige erstaunliche Funktionen hinzu'`).
+4. Pushen Sie den Branch (`git push origin feature/ErstaunlicheFunktion`).
+5. Eroeffnen Sie einen Pull Request.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
+
+## Lizenz
+Vertrieben unter der MIT-Lizenz. Siehe `LIZENZ` fuer weitere Informationen.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Kontaktieren
 Christopher Chandler - christopher.chandler@outlook.de
 
 Project Link: [https://github.com/christopher-chandler/repo_name](https://github.com/christopher-chandler/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
