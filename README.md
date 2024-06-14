@@ -99,7 +99,7 @@ haben.
 
 Das Hauptutorial befindet sich in der Datei [main_git_leicht_gemacht.ipynb](main_git_leicht_gemacht.ipynb).
 Das Tutorial besteht aus 4 Teilen und Uebungsaufgaben fuer die ersten drei Teile:
-- Einführung 
+- Einfuehrung 
   -  [teil_01_zusammenfassungen_uebungsaufgaben.ipynb](teil_01_zusammenfassungen_uebungsaufgaben.ipynb)
 - Grundlagen
   - [teil_02_zusammenfassungen_uebungsaufgaben.ipynb](teil_02_zusammenfassungen_uebungsaufgaben.ipynb)
@@ -108,7 +108,7 @@ Das Tutorial besteht aus 4 Teilen und Uebungsaufgaben fuer die ersten drei Teile
   - [teil_03_zusammenfassungen_uebungsaufgaben.ipynb](teil_03_zusammenfassungen_uebungsaufgaben.ipynb)
 - GUI
 
-Ein Übersicht der Begriffe, Befehle und Best Practices
+Ein uebersicht der Begriffe, Befehle und Best Practices
 [git_cheatsheet.ipynb](git_cheatsheet.ipynb)
 
 <p align="right">(<a href="#top">nach oben</a>)</p>
