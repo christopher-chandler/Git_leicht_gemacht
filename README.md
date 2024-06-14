@@ -145,7 +145,8 @@ Vertrieben unter der MIT-Lizenz. Siehe `LIZENZ` fuer weitere Informationen.
 
 <!-- CONTACT -->
 ## Kontaktieren
-Christopher Chandler - christopher.chandler@outlook.de
+Christopher Chandler - christopher.chandler@outlook.de 
+
 Project Link: [https://github.com/christopher-chandler/Git_leicht_gemacht](https://github.com/christopher-chandler/Git_leicht_gemacht)
 
 <p align="right">(<a href="#top">nach oben</a>)</p>
