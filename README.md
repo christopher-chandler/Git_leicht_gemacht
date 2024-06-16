@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/christopher-chandler/repo_name">
+  <a href="https://github.com/christopher-chandler/Git_leicht_gemacht">
     <img src="notebook_resources/readme/logo.png" alt="Logo"  >
   </a>
 
@@ -22,9 +22,9 @@
     Ein Tutorial, um Git zu lernen
     <br />
     <br />
-    <a href="https://github.com/christopher-chandler/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/christopher-chandler/Git_leicht_gemacht/issues">Fehler anmerken</a>
     ·
-    <a href="https://github.com/christopher-chandler/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/christopher-chandler/Git_leicht_gemacht/issues">Erweiterung anfragen</a>
   </p>
 </div>
 
@@ -50,7 +50,8 @@
     <li><a href="#beitragen">Beitragen</a></li>
     <li><a href="#lizenz">Lizenz</a></li>
     <li><a href="#kontaktieren">Kontaktieren</a></li>
- 
+     <li><a href="#quellen">Quellen</a></li>
+
   </ol>
 </details>
 
@@ -61,24 +62,23 @@ Das ist ein Tutorial, womit man ganz leicht und schnell sich die Grundlagen
 fuer Git aneignen kann. 
 
 <div align="center">
-  <a href="https://github.com/christopher-chandler/repo_name">
+  <a href="https://github.com/christopher-chandler/Git_leicht_gemacht">
   </a>
 </div>
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nach oben</a>)</p>
 
 ### Framework
 Das Tutorial benutzt hauptsaechlich die folgenden Frameworks
 * [Jupyter Notebook](https://jupyter.org/)
 * [Git Dokumentation](https://www.git-scm.com/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nach oben</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Erste Schritte
 Um dieses Tutorial selber ausprobieren zu koennen, sollen die folgenden Programme 
 lokal installiert sein. Es ist fuer Anfaenger gedacht, die sich mit Git gar nicht auskennen. 
-- 
-Jupyter Notebook
+- Jupyter Notebook
 - Git
 - Python
 
@@ -89,16 +89,29 @@ sich damit auseinandersetzen zu wollen.
 
 ### Installation
 
+Um dieses Tutorial ausfuehren zu koennen, muss man `Git`, `Python` und `Jupyter notebooks` installiert 
+haben. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nach oben</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Aufbau
-Use this space to show useful examples of how a project can be used. 
-Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-For more examples, please refer to the [Documentation](https://example.com)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Das Hauptutorial befindet sich in der Datei [main_git_leicht_gemacht.ipynb](main_git_leicht_gemacht.ipynb).
+Das Tutorial besteht aus 4 Teilen und Uebungsaufgaben fuer die ersten drei Teile:
+- Einfuehrung 
+  -  [teil_01_zusammenfassungen_uebungsaufgaben.ipynb](teil_01_zusammenfassungen_uebungsaufgaben.ipynb)
+- Grundlagen
+  - [teil_02_zusammenfassungen_uebungsaufgaben.ipynb](teil_02_zusammenfassungen_uebungsaufgaben.ipynb)
+
+- Branches
+  - [teil_03_zusammenfassungen_uebungsaufgaben.ipynb](teil_03_zusammenfassungen_uebungsaufgaben.ipynb)
+- GUI
+
+Ein uebersicht der Begriffe, Befehle und Best Practices
+[git_cheatsheet.ipynb](git_cheatsheet.ipynb)
+
+<p align="right">(<a href="#top">nach oben</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -121,38 +134,43 @@ Vergessen Sie nicht, dem Projekt einen Stern zu geben! Vielen Dank nochmals!
 4. Pushen Sie den Branch (`git push origin feature/ErstaunlicheFunktion`).
 5. Eroeffnen Sie einen Pull Request.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nach oben</a>)</p>
 
 <!-- LICENSE -->
 
 ## Lizenz
 Vertrieben unter der MIT-Lizenz. Siehe `LIZENZ` fuer weitere Informationen.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nach oben</a>)</p>
 
 <!-- CONTACT -->
 ## Kontaktieren
-Christopher Chandler - christopher.chandler@outlook.de
+Christopher Chandler - christopher.chandler@outlook.de 
 
-Project Link: [https://github.com/christopher-chandler/repo_name](https://github.com/christopher-chandler/repo_name)
+Project Link: [https://github.com/christopher-chandler/Git_leicht_gemacht](https://github.com/christopher-chandler/Git_leicht_gemacht)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">nach oben</a>)</p>
+
+## Quellen 
+
+ 
+<p align="right">(<a href="#top">nach oben</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/christopher-chandler/repo_name?color=green&logoColor=%20
-[contributors-url]: https://github.com/christopher-chandler/repo_name/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/christopher-chandler/Git_leicht_gemacht?color=green&logoColor=%20
+[contributors-url]: https://github.com/christopher-chandler/Git_leicht_gemacht/graphs/contributors
 
-[stars-shield]: https://img.shields.io/github/stars/christopher-chandler/repo_name?logoColor=yellow&style=social
-[stars-url]: https://github.com/christopher-chandler/repo_name/stargazers
+[stars-shield]: https://img.shields.io/github/stars/christopher-chandler/Git_leicht_gemacht?logoColor=yellow&style=social
+[stars-url]: https://github.com/christopher-chandler/Git_leicht_gemacht/stargazers
 
-[license-shield]: https://img.shields.io/github/license/christopher-chandler/repo_name?color=yellow
-[license-url]: https://github.com/christopher-chandler/repo_name/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/christopher-chandler/Git_leicht_gemacht?color=yellow
+[license-url]: https://github.com/christopher-chandler/Git_leicht_gemacht/blob/master/LICENSE.txt
 
-[download-shield]: https://img.shields.io/github/downloads/christopher-chandler/repo_name/total
+[download-shield]: https://img.shields.io/github/downloads/christopher-chandler/Git_leicht_gemacht/total
 
-[windows-shield]:  https://img.shields.io/badge/Windows-Tested-purple 
+[windows-shield]:  https://img.shields.io/badge/Windows-Tested-lightblue
 [mac-shield]: https://img.shields.io/badge/Mac-Tested-purple
-[version-shield]: https://img.shields.io/badge/Version-0.0.0-brightgreen
-[update-shield]: https://img.shields.io/badge/Last_Updated-MONTH_YEAR-blue
+[version-shield]: https://img.shields.io/badge/Version-1.0.0-brightgreen
+[update-shield]: https://img.shields.io/badge/Last_Updated-06_2024-blue
