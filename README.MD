@@ -58,7 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Ueber das Projekt
 
-Das ist ein Tutorial, womit man ganz leicht und schnell sich die Grundlagen 
+Das ist ein Tutorial, womit man sich ganz leicht und schnell die Grundlagen 
 fuer Git aneignen kann. 
 
 <div align="center">
