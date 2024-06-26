@@ -98,14 +98,11 @@ haben.
 ## Aufbau
 
 Das Hauptutorial befindet sich in der Datei [main_git_leicht_gemacht.ipynb](main_git_leicht_gemacht.ipynb).
-Das Tutorial besteht aus 4 Teilen und Uebungsaufgaben fuer die ersten drei Teile:
-- Einfuehrung 
-  -  [teil_01_zusammenfassungen_uebungsaufgaben.ipynb](teil_01_zusammenfassungen_uebungsaufgaben.ipynb)
+Das Tutorial besteht aus 4 Teilen:
+- Einfuehrung
 - Grundlagen
-  - [teil_02_zusammenfassungen_uebungsaufgaben.ipynb](teil_02_zusammenfassungen_uebungsaufgaben.ipynb)
-
 - Branches
-  - [teil_03_zusammenfassungen_uebungsaufgaben.ipynb](teil_03_zusammenfassungen_uebungsaufgaben.ipynb)
+
 - GUI
 
 Ein uebersicht der Begriffe, Befehle und Best Practices
@@ -152,7 +149,13 @@ Project Link: [https://github.com/christopher-chandler/Git_leicht_gemacht](https
 <p align="right">(<a href="#top">nach oben</a>)</p>
 
 ## Quellen 
+Arek. (2020, August 15). Git Lernen in 30 Minuten - Anfaenger Tutorial (2022). https://lerneprogrammieren.de/git/ 
 
+Chacon, S., & Long, J. (n.d.). Book. Git. https://git-scm.com/book/de/v2 
+
+Rhoenerlebnis. (n.d.). Git cheat sheet. https://rhoenerlebnis.de/_upl/de/_pdf-seite/git_cheatsheet_de_white.pdf 
+
+Squirrels, J. (2023, July 21). Erste Schritte mit git: Eine Umfassende Anleitung fuer neulinge. CodeGym. https://codegym.cc/de/groups/posts/de.379.erste-schritte-mit-git-eine-umfassende-anleitung-fur-neulinge 
  
 <p align="right">(<a href="#top">nach oben</a>)</p>
 
